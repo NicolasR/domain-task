@@ -19,7 +19,7 @@
   "dependencies": {
     "domain-context": "^0.5.1",
     "is-absolute-url": "^2.1.0",
-    "isomorphic-fetch": "NicolasR/isomorphic-fetch"
+    "isomorphic-fetch": "NicolasR/isomorphic-fetch#v3.0.1"
   },
   "devDependencies": {
     "@types/node": "^6.0.42",
